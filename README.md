@@ -25,9 +25,9 @@ This project focuses on the design and simulation of a 32-bit RISC-V RV32I proce
 - RTL simulation and waveform analysis
 
 ## Repository Contents
-- `PC_.v` – Program counter module
-- `Pipelined_RISC_V.v` – Pipelined processor design
-- `Risc_V.v` – RISC-V processor logic
+- `PC_.v` – Single Cylcle RISC V Complete code
+- `Pipelined_RISC_V.v` – Pipelined 5 Stage RISC V processor Complete Code
+- `Risc_V.v` – Pipelined 5 Stage RISC V processor with Forward and Hazard unit Complete Code
 
 ## Project Status
 RTL design and simulation work are in progress. FPGA implementation and hardware validation will be documented after completion.
