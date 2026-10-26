@@ -30,7 +30,13 @@ This project focuses on the design and simulation of a 32-bit RISC-V RV32I proce
 - `Risc_V.v` – Pipelined 5 Stage RISC V processor with Forward and Hazard unit Complete Code
 
 ## Project Status
-RTL design and simulation work are in progress. FPGA implementation and hardware validation will be documented after completion.
+
+- **RTL Design:** Completed
+- **Simulation and Functional Verification:** Completed
+- **FPGA Implementation:** Pending
+- **Hardware Validation:** Pending
+
+The 32-bit, 5-stage pipelined RISC-V RV32I processor has been designed in Verilog HDL, and RTL simulation has been completed successfully. FPGA implementation and physical hardware validation are planned as the next steps.
 
 ## Author
 Abhimanyu
